@@ -1,16 +1,14 @@
-# PlayerPython
 
-![image](https://imgur.com/a/xcFXo9O)
 
 ### 👉 Este é um simples reprodutor de áudio em Python que suporta múltiplos formatos de áudio, como MP3, WAV, e FLAC. O projeto utiliza as bibliotecas `pygame`, `mutagen`, `pydub` e `tkinter` para fornecer uma interface gráfica para reprodução de músicas.
 
-## Requisitos
+# Requisitos
 
-### Windows
+##  Windows
 
 Para rodar o PlayerPython no Windows, é necessário instalar o `FFmpeg`, que é utilizado para lidar com alguns formatos de áudio como o FLAC.
 
-#### Passos para instalar o FFmpeg no Windows:
+####  Passos para instalar o FFmpeg no Windows:
 
 1. Baixe o arquivo compactado do [FFmpeg](https://ffmpeg.org/download.html).
 2. Extraia o arquivo compactado (`FFMPEG.7z`).
@@ -26,7 +24,7 @@ Para rodar o PlayerPython no Windows, é necessário instalar o `FFmpeg`, que é
 
 Após seguir esses passos, o FFmpeg estará disponível globalmente em seu sistema.
 
-### Linux
+####  Linux
 
 Se você está utilizando Linux, instale o FFmpeg usando o terminal com os seguintes comandos:
 
@@ -36,7 +34,7 @@ sudo apt install ffmpeg
 sudo apt upgrade
 
 
-### comando pós instalação no terminal
+#### comando pós instalação no terminal
 pip install pygame
 pip install mutagen
 pip install pydub
