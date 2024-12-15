@@ -1,6 +1,7 @@
-### layerPython 🎶
 
-### 👉 **Este é um simples reprodutor de áudio em Python que suporta múltiplos formatos de áudio, como MP3, WAV, e FLAC. O projeto utiliza as bibliotecas `pygame`, `mutagen`, `pydub` e `tkinter` para fornecer uma interface gráfica para reprodução de músicas.**
+![image](https://github.com/user-attachments/assets/4ed6c819-d9f4-432c-8980-a2275f097b2b)
+
+### 👉 **Este é um simples reprodutor de áudio em Python que suporta múltiplos formatos de áudio, como MP3, WAV, e FLAC. O projeto utiliza as bibliotecas `pygame`, `mutagen`, `pydub` e `tkinter` para fornecer uma interface gráfica para reprodução de músicas.🎶**
 
 ---
 
