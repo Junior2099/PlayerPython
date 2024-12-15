@@ -34,3 +34,11 @@ Se você está utilizando Linux, instale o FFmpeg usando o terminal com os segui
 sudo apt update
 sudo apt install ffmpeg
 sudo apt upgrade
+
+
+### comando pós instalação no terminal
+pip install pygame
+pip install mutagen
+pip install pydub
+pip install tk
+
